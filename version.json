@@ -1,6 +1,6 @@
 {
   "version": 1.3,
-  "url": "https://raw.githubusercontent.com/hxrshittt/app-updater/main/update_package.zip",
+  "url": "https://github.com/hxrshittt/app-updater/releases/download/v1.3/update_package.zip",
   "sha256": "A561C6DA5CBCE70342F0C9E79375AC6A3E5ADC2A27E5421D26C7183C89EBF8B5",
   "release_notes": "Automated deployment pipeline test."
 }
